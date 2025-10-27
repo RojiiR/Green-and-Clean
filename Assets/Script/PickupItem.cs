@@ -3,8 +3,11 @@ using UnityEngine;
 public class PickupItem : MonoBehaviour
 {
     [Header("Setup Pickup")]
-    public Transform holdPosition;      // Posisi di player saat memegang
-    public GameObject pressFText;       // Teks "Tekan F untuk ambil"
+    public Transform holdPosition;
+    public GameObject pressFText;
+
+    [Header("Tipe Sampah")]
+    public string trashType; // "Organik", "Anorganik", atau "Khusus"
 
     [HideInInspector] public bool isHeld = false;
     private bool isInRange = false;
@@ -16,16 +19,22 @@ public class PickupItem : MonoBehaviour
         col = GetComponent<Collider>();
         if (pressFText != null)
             pressFText.SetActive(false);
+
+        // Auto-isi trashType dari tag
+        if (CompareTag("SampahOrganik")) trashType = "Organik";
+        else if (CompareTag("SampahAnorganik")) trashType = "Anorganik";
+        else if (CompareTag("SampahKhusus")) trashType = "Khusus";
     }
 
     private void Update()
     {
         if (isInRange && !isHeld && Input.GetKeyDown(KeyCode.F))
         {
+            // Cegah ambil dua sampah
+            if (PlayerHasTrash()) return;
             PickUp();
         }
 
-        // Selalu ikuti posisi hold kalau dipegang
         if (isHeld && holdPosition != null)
         {
             transform.position = holdPosition.position;
@@ -37,9 +46,9 @@ public class PickupItem : MonoBehaviour
     {
         isHeld = true;
         transform.SetParent(holdPosition);
-        col.enabled = false; // Nonaktifkan collider agar tidak nabrak
+        col.enabled = false;
         if (pressFText != null) pressFText.SetActive(false);
-        Debug.Log("Sampah diambil!");
+        Debug.Log($"{trashType} diambil!");
     }
 
     private void OnTriggerEnter(Collider other)
@@ -59,5 +68,15 @@ public class PickupItem : MonoBehaviour
             isInRange = false;
             if (pressFText != null) pressFText.SetActive(false);
         }
+    }
+
+    private bool PlayerHasTrash()
+    {
+        PickupItem[] allTrash = FindObjectsOfType<PickupItem>();
+        foreach (var t in allTrash)
+        {
+            if (t.isHeld) return true;
+        }
+        return false;
     }
 }

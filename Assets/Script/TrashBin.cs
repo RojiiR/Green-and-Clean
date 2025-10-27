@@ -3,7 +3,6 @@ using UnityEngine;
 public class TrashBin : MonoBehaviour
 {
     public GameObject pressEText;   // UI teks "Tekan E untuk buang"
-
     private PickupItem currentTrash; // referensi sampah yang lagi dibawa
 
     private void Start()
@@ -37,11 +36,31 @@ public class TrashBin : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.E))
             {
                 if (pressEText != null) pressEText.SetActive(false);
+
+                // 🔍 Cek apakah tag sampah cocok dengan tempat sampah
+                bool benar = false;
+
+                if (currentTrash.CompareTag("SampahOrganik") && gameObject.CompareTag("OrganikBin"))
+                    benar = true;
+                else if (currentTrash.CompareTag("SampahAnorganik") && gameObject.CompareTag("AnorganikBin"))
+                    benar = true;
+                else if (currentTrash.CompareTag("SampahKhusus") && gameObject.CompareTag("KhususBin"))
+                    benar = true;
+
+                if (benar)
+                {
+                    Debug.Log("✅ Sampah dibuang di tempat yang benar!");
+                    ScoreManager.instance.AddScore(10);
+                }
+                else
+                {
+                    Debug.Log("❌ Salah tempat sampah!");
+                    ScoreManager.instance.AddScore(-5);
+                }
+
+                // Hapus sampah setelah dibuang
                 Destroy(currentTrash.gameObject);
                 currentTrash = null;
-                Debug.Log("Sampah dibuang!");
-
-                ScoreManager.instance.AddScore(10);
             }
         }
     }

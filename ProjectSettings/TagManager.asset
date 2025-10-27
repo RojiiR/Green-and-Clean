@@ -4,8 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Sampah
-  - TrashBin
+  - SampahOrganik
+  - SampahAnorganik
+  - SampahKhusus
+  - OrganikBin
+  - AnorganikBin
+  - KhususBin
   layers:
   - Default
   - TransparentFX
