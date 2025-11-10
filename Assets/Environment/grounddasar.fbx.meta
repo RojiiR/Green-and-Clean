@@ -1,0 +1,3057 @@
+fileFormatVersion: 2
+guid: 78172de400257c34ebd889d5d38bdb07
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01
+    second: {fileID: 2100000, guid: 04cf9b12c59bf3d4eac8772e28c492de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.001
+    second: {fileID: 2100000, guid: 3f248a328df74704d8a9d34576994f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.002
+    second: {fileID: 2100000, guid: b682e0ef3b06ea64794c38116daaeabd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.003
+    second: {fileID: 2100000, guid: 39bf09b0960ab8a4da974607b37be1ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.004
+    second: {fileID: 2100000, guid: 23ea46e930dec0d41adbadfce99242a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.005
+    second: {fileID: 2100000, guid: c839d06e55121fa47b7fe5da8b6d37a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.006
+    second: {fileID: 2100000, guid: 825fd00d548dc0c4daa7ab8b13b4ee0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.007
+    second: {fileID: 2100000, guid: 57d01b4d6d329344c9294017ca32b6e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.008
+    second: {fileID: 2100000, guid: 5dd780145f7f52645b3641c6f1208bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.009
+    second: {fileID: 2100000, guid: 4bf46af044bd906459af34e03eb09793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.010
+    second: {fileID: 2100000, guid: 7452bbdd80afc0b46bf14879b379d77f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.011
+    second: {fileID: 2100000, guid: 49a5f091d3e4dd94da2122428da95acf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.012
+    second: {fileID: 2100000, guid: c4c4f717296c16040b51938de71a0703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.013
+    second: {fileID: 2100000, guid: 933e8a33eff74c844934fbd0e1df1e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.014
+    second: {fileID: 2100000, guid: 41fa9ec279ff4a243b7bfc966413910c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.015
+    second: {fileID: 2100000, guid: 24c0f4c387ea73d4ca3d29f753b08149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.016
+    second: {fileID: 2100000, guid: cb73f5d819c438e41bb7e37d9cc843de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.017
+    second: {fileID: 2100000, guid: 742a49ad123231d4b886b7332634c28f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.018
+    second: {fileID: 2100000, guid: b01afbb718e30cb4aaaf41628a92c1ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.019
+    second: {fileID: 2100000, guid: 781e55229272b514f856ebf392d303b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.020
+    second: {fileID: 2100000, guid: c00c9df8493bf1a4085cc8bbc2ead23c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.021
+    second: {fileID: 2100000, guid: 49286fdab93f1e949b98506e64b8b92a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.022
+    second: {fileID: 2100000, guid: 753ee8bc92c13424daaaed34c3960b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.023
+    second: {fileID: 2100000, guid: 4b14d6d642ae24549bd2ecfaee224d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.024
+    second: {fileID: 2100000, guid: 9324a561279117a40b4af5ef0270f936, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.025
+    second: {fileID: 2100000, guid: 0d22cb6f7c5bf684bbf402356fa0b15d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.026
+    second: {fileID: 2100000, guid: 3b74181bcd4d65d41a9846ee00f03ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.027
+    second: {fileID: 2100000, guid: fec37ba7e988cba4fb17d9da9186f20d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.028
+    second: {fileID: 2100000, guid: 0e3b0f5c115d2914d86b7db072c2f1a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.029
+    second: {fileID: 2100000, guid: ae68ae30635129c4eb01650b14217ba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.030
+    second: {fileID: 2100000, guid: dbcd9b22fac7cc047aa2df1eb5ed6c48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.031
+    second: {fileID: 2100000, guid: 4aa242a9a99e03643b79b9824a1a4805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.032
+    second: {fileID: 2100000, guid: 53e6dd02b3c8292489a4301133e44294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.033
+    second: {fileID: 2100000, guid: dd2df87db10e02d4ebef09eb9d012f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.034
+    second: {fileID: 2100000, guid: f640d5abab38fcd4b80bc124b53b4e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.035
+    second: {fileID: 2100000, guid: 90be55e62a82df34abd13f29d07ef273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.036
+    second: {fileID: 2100000, guid: c51a626acb60a9b4a948d7ee1c004cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.037
+    second: {fileID: 2100000, guid: 5ebf9f9314aaf7f4794991f78a619c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.038
+    second: {fileID: 2100000, guid: 1d5479f66821b114fa6bc6f75b50d90d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.039
+    second: {fileID: 2100000, guid: 9d4ee0f12270c884bb42957787d0d432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.040
+    second: {fileID: 2100000, guid: 5c4f27a32ce139c48ad1e6af51e03be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.041
+    second: {fileID: 2100000, guid: ebfaf33901d88154594c761851a2a920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.042
+    second: {fileID: 2100000, guid: c539b539b9aa21c499076bde175b6994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.043
+    second: {fileID: 2100000, guid: 82bd3f5a3b8882e4c9f01066f6dcb1ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.044
+    second: {fileID: 2100000, guid: 1d47c6f871d1c1e4eacf76d467ad5ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.045
+    second: {fileID: 2100000, guid: ef42faf7a3d8f2744b149fe97cd3726f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.046
+    second: {fileID: 2100000, guid: 485865e0d86878a4395eeb5d8e1fa586, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.047
+    second: {fileID: 2100000, guid: 9dfd3783e3720424894c9b7b86245d20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.048
+    second: {fileID: 2100000, guid: 7bf53699fdcfb33449c3a07c42e7da36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.049
+    second: {fileID: 2100000, guid: 5a6724c5faa32f2488f68dc27807304c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.050
+    second: {fileID: 2100000, guid: 02c771906dc6dd042b985cb00c553831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.051
+    second: {fileID: 2100000, guid: ec824b48fed8bfa478e8ecd812e9d83c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.052
+    second: {fileID: 2100000, guid: 66c6aa6a70c5dda46af5836f5f15bacb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.053
+    second: {fileID: 2100000, guid: 53e8a321cd994754c86cbb58fa181943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.054
+    second: {fileID: 2100000, guid: 0e7452041bf566049b995cf20e43fc13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.055
+    second: {fileID: 2100000, guid: bf874fe82873a37458dd8cedd4c2fecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.056
+    second: {fileID: 2100000, guid: a16dad7a9a3f5ba42bbc808f77011262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.057
+    second: {fileID: 2100000, guid: 599489f596b299447bcbe9df54b01ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.058
+    second: {fileID: 2100000, guid: 1f6bdca35a8282546a9732f94e9ed866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.059
+    second: {fileID: 2100000, guid: 91de8735e05b07346a56f380689f56a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.060
+    second: {fileID: 2100000, guid: 57dd48d385aca9d4dbf41f16c18eb41e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.061
+    second: {fileID: 2100000, guid: a681595e0700b474ea29b30363860e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.062
+    second: {fileID: 2100000, guid: 5b9d2d2e8970c67469b14c1275997f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.063
+    second: {fileID: 2100000, guid: 90603781fca2bcd4caf74bceb0104d64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.064
+    second: {fileID: 2100000, guid: ef59a22f833bfb14387a4f79c676d379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.065
+    second: {fileID: 2100000, guid: 2da7b87c7e674f645be11cbcecefbfd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.066
+    second: {fileID: 2100000, guid: b6dc8cfccca1a054b9df1f47d2588876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.067
+    second: {fileID: 2100000, guid: 0ebe3b48c93ae5d46995924ceaf8c816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.068
+    second: {fileID: 2100000, guid: a5629470e183f3342bae10da4f20b8eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.069
+    second: {fileID: 2100000, guid: 7b8b656d3a662924c80107d80994b5f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.070
+    second: {fileID: 2100000, guid: 480faf2140ecf3c4abe9437a7a398a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.071
+    second: {fileID: 2100000, guid: c63cf6be0e46617479763e8b94c443eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.072
+    second: {fileID: 2100000, guid: 5b9c50ec2b99e4747b1f7f9ad3828ad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.073
+    second: {fileID: 2100000, guid: 68cbf43835a40ac4a8336596a41a57df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.074
+    second: {fileID: 2100000, guid: 6eef76004a71bcf479e90d7684ccc9d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.075
+    second: {fileID: 2100000, guid: f25f6b0ccd7e7414eb6fb55e5485847c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.076
+    second: {fileID: 2100000, guid: 44a04a950f89a81418b525561f2df2af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.077
+    second: {fileID: 2100000, guid: 412eaa2f8836e17419864692f7693562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.078
+    second: {fileID: 2100000, guid: f051f99c799093141948851b9f52270d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.079
+    second: {fileID: 2100000, guid: 699c60ce9c3f0dd4c8d2cfc57a527ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.080
+    second: {fileID: 2100000, guid: 6f4432c1e411c8045824e1f6df93b5e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.081
+    second: {fileID: 2100000, guid: 462bc5cb9f86a544db8e10b840b07f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.082
+    second: {fileID: 2100000, guid: 3438f623bb94fbb468dd9d68af9da63e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.083
+    second: {fileID: 2100000, guid: 5259b357df745d24e843338ab65702d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.084
+    second: {fileID: 2100000, guid: c7e49b3bbcb7fbc4bbb84f4965f9ce5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.085
+    second: {fileID: 2100000, guid: 6e444fb94df12e840b66896aed9964f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.086
+    second: {fileID: 2100000, guid: 5e9f4dd45e2b7454a93c635aeb791ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.087
+    second: {fileID: 2100000, guid: 6b7408e54efb8524abe0def6bea2ef4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.088
+    second: {fileID: 2100000, guid: bf443fda8a23d19419df446f7ae2fcac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.089
+    second: {fileID: 2100000, guid: a634cd352366842429f1fade03e011b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.090
+    second: {fileID: 2100000, guid: f09b8f246573760409897c5d93e0e228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.091
+    second: {fileID: 2100000, guid: 85e89634f20361d489e36284e74bb80d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.092
+    second: {fileID: 2100000, guid: ef898124a7e67a440ad4f59863acaffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.093
+    second: {fileID: 2100000, guid: f3ddd4c27847d714ca88e778e5559dbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.094
+    second: {fileID: 2100000, guid: f31cc3cd50bdcfe41ab5c2655413aae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.095
+    second: {fileID: 2100000, guid: f8c6f9e0bd5bde7488844d42de138cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.096
+    second: {fileID: 2100000, guid: 1aa71f8d45ccd6e4a944f8622e1c7fb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.097
+    second: {fileID: 2100000, guid: 3ba8fcaa4ab715c41a343f2459366867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.098
+    second: {fileID: 2100000, guid: 576616eecd455d3469afdd16b8f71155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.099
+    second: {fileID: 2100000, guid: 9681eadb8d0a4e5429a539e00fb4a64b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.100
+    second: {fileID: 2100000, guid: 9c5d5ddb95a3a944191db23e41ccadb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.101
+    second: {fileID: 2100000, guid: 4a1526bc32409734d96e4bb7af85f200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.102
+    second: {fileID: 2100000, guid: b26afbc5e93eb954ea414778a7bd86aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.103
+    second: {fileID: 2100000, guid: c5f218a1b7720494c8e017e9c2460b8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.104
+    second: {fileID: 2100000, guid: 11c7f2b47f4ce0f4b8ab151a52c18901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.105
+    second: {fileID: 2100000, guid: 8c8da54b81e22624aa7144985318de68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.106
+    second: {fileID: 2100000, guid: 910110a77f0b8df469984f8e1d139fb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.107
+    second: {fileID: 2100000, guid: 8b797e5c356c28941bf084b3d12c27c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.108
+    second: {fileID: 2100000, guid: 6bd1ef583ad876146854b90c6825fb2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.109
+    second: {fileID: 2100000, guid: 47549d79bc9f74441b3ac8504765d9a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.110
+    second: {fileID: 2100000, guid: df782c5a28fdacd4eae36bf394643f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.111
+    second: {fileID: 2100000, guid: 6444276a5153d144282cddb6d48b4399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.112
+    second: {fileID: 2100000, guid: 3894eb254f5125f4f8ab3332c4b6dbbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.113
+    second: {fileID: 2100000, guid: fa53ab27d8182b34080bb0d0a897dae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.114
+    second: {fileID: 2100000, guid: f18e812efc075854199c169fa49a138b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.115
+    second: {fileID: 2100000, guid: 2aaa2c62eca874f47ab786db751b355e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.116
+    second: {fileID: 2100000, guid: fc8ae6cbdc3910846ae9067be55925c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.117
+    second: {fileID: 2100000, guid: 0fd302ef8864c824e8f68089a43bae90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.118
+    second: {fileID: 2100000, guid: 11841abdb6ee8894d9b5cf575f5e41fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.119
+    second: {fileID: 2100000, guid: 1fe978d8e33957c4585d892d7665902f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.120
+    second: {fileID: 2100000, guid: 22cd427df7f287f469b1b91f59daef34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.121
+    second: {fileID: 2100000, guid: 5faf5edfb3808714a86563e9dcc28ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.122
+    second: {fileID: 2100000, guid: cfa82b60110989343a7112195929da30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.123
+    second: {fileID: 2100000, guid: f26858d61a28aac43bef7dec65b7fd9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.124
+    second: {fileID: 2100000, guid: 4c84b60b4321db842a93749b0d81d3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.125
+    second: {fileID: 2100000, guid: 2588455422bead24ab770e991e5ba891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.126
+    second: {fileID: 2100000, guid: cde5d7d1c69556c4bb2a82bd480fc6db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.127
+    second: {fileID: 2100000, guid: f4987948f07f47842bbe5f39d461da39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.129
+    second: {fileID: 2100000, guid: 69cfb4b0e8fe7a84a91341bda8f081a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.130
+    second: {fileID: 2100000, guid: 89d6629ab00189748b5262eec3429ee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.131
+    second: {fileID: 2100000, guid: eb7532d2d204a4b4e8f6b05b0f3f0512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.132
+    second: {fileID: 2100000, guid: 0a424664c04b2a8479e1965084b53c36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.133
+    second: {fileID: 2100000, guid: dc4aa1a1ba54c664fb97bcf062d6f479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.134
+    second: {fileID: 2100000, guid: c5ba81327ca28e146bbba7a21451dbe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.135
+    second: {fileID: 2100000, guid: 43a158337bbc61040897c26cb56302c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.136
+    second: {fileID: 2100000, guid: 92f0e3ac85c62074e9dabe945ebe38a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.137
+    second: {fileID: 2100000, guid: 21cba7c04dd01d8438b859aa5a4b430d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.138
+    second: {fileID: 2100000, guid: c8283a9de462d4d459ecc2476e522df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.139
+    second: {fileID: 2100000, guid: eaf8b3cc665b59d4480c9ef18ba8c893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.140
+    second: {fileID: 2100000, guid: 4d0940597e7eb3443b1083bbd6eec9c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.141
+    second: {fileID: 2100000, guid: 80083e666578f50479050e7f7c39a185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.142
+    second: {fileID: 2100000, guid: d0b4e0be9267ae94199168c8b7ac8d5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.143
+    second: {fileID: 2100000, guid: 949e657d9a4a0214caf870367d42938a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.144
+    second: {fileID: 2100000, guid: 523aaa68784d62f4dab286336fde7f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.145
+    second: {fileID: 2100000, guid: 8aa5c7c81473fe64d90442ac97802a1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.146
+    second: {fileID: 2100000, guid: ceb54b06ec2ad1249bf167fadea38f29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.147
+    second: {fileID: 2100000, guid: 56aa2dca0ec09fa44a77246e446f4c27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.148
+    second: {fileID: 2100000, guid: c27463e31749bdc469dd5de717fe9608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.149
+    second: {fileID: 2100000, guid: 73b2c4eb5d1b9bf4393b7d6a58e07e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.150
+    second: {fileID: 2100000, guid: ea69180c347ef434c82e1ee2b9a21c1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.151
+    second: {fileID: 2100000, guid: 2bb77989d4a8b8b49aca0292caf8ca0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.152
+    second: {fileID: 2100000, guid: 47256cd74294b404b88e934a756e292d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.153
+    second: {fileID: 2100000, guid: a1a1cbd6f4477b447892313917064136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.154
+    second: {fileID: 2100000, guid: e983db7f0ac7db64ebe4728e770f6005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_lt_terrain_grass_01.155
+    second: {fileID: 2100000, guid: 7666b573aa0258340bad42fe8ed056cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a
+    second: {fileID: 2100000, guid: feb5ea23368e04b41a5065da2e9a607e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a.001
+    second: {fileID: 2100000, guid: fb10c4f7ce3cd414c877bc14fae03db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a.002
+    second: {fileID: 2100000, guid: 1d29f461998aa7945aa8acaf762d84db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a.003
+    second: {fileID: 2100000, guid: 8bd7ae8c29fbcab408940577e3f57811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a.004
+    second: {fileID: 2100000, guid: c778cbee7af53034eb0fc96b6a01e82e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a.006
+    second: {fileID: 2100000, guid: 3fd6cfea5615af94a89012dfb43c1ebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a.007
+    second: {fileID: 2100000, guid: 4ccca3035af969949aa7c8a517a672c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a.008
+    second: {fileID: 2100000, guid: fbf3f21663a55564998448554784887e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_ne_mat_a.009
+    second: {fileID: 2100000, guid: 2dd4ae83b17046b479975a7a434bbea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.001
+    second: {fileID: 2100000, guid: 24eac33acd6e7674c9c88e2c5cb6c336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.002
+    second: {fileID: 2100000, guid: ba88a56c5e892dd4b8362eaf85668f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.003
+    second: {fileID: 2100000, guid: 82dc8f59c9da04f42bc47d643bcf805f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.004
+    second: {fileID: 2100000, guid: b8aef5ef1ac500049937e1c0a6a76712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.005
+    second: {fileID: 2100000, guid: 14914480eedb84a4a85d5f48ed15b03f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.007
+    second: {fileID: 2100000, guid: c528cd0555925fc4cb20a5cf689dd6de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.008
+    second: {fileID: 2100000, guid: 0c00b4c124fe0d649856a602c841a88c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.009
+    second: {fileID: 2100000, guid: 04e9ef66b7846184499698b6870edb5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.010
+    second: {fileID: 2100000, guid: d7c2935ac1ecf0d4189dc97d6e134322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.011
+    second: {fileID: 2100000, guid: cde9bc4fce4dc6249a2bcdc44c2a34d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.012
+    second: {fileID: 2100000, guid: be9d53886897b4347b66fc0dfaa2a857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.013
+    second: {fileID: 2100000, guid: cb26d2cbabc35b4419705e1e1641cb5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.014
+    second: {fileID: 2100000, guid: b70f3170d180852428399acb6c835adf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.015
+    second: {fileID: 2100000, guid: fcc9ed5f1aa165f4faf3d1f89472ef23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.016
+    second: {fileID: 2100000, guid: c1f2e0f3b24f97a439a22bae0fcbbf9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.017
+    second: {fileID: 2100000, guid: 26e35761122856a4da34b180675fbb90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.018
+    second: {fileID: 2100000, guid: 1e4b6966e9b841d48ae94388bb51ca8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.019
+    second: {fileID: 2100000, guid: 8693ea32f3a69444897613658b4ddf75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.020
+    second: {fileID: 2100000, guid: 60922c5632d7aed4981c057bbe392022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.021
+    second: {fileID: 2100000, guid: aefe58a38c253634e84184e931dc68f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.022
+    second: {fileID: 2100000, guid: d883d52390c3d7348b459789dad88e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.023
+    second: {fileID: 2100000, guid: 8080d6fbcb347344f95137b9143b3ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.024
+    second: {fileID: 2100000, guid: a3d5b167818f8ff46abbfa8b4c5eabd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.025
+    second: {fileID: 2100000, guid: cce1e629d73650c408524cbafa20b1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.026
+    second: {fileID: 2100000, guid: d10d816693446d941a7658513590e4dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.027
+    second: {fileID: 2100000, guid: 011822f7c5dd84d40ae2dcaefde57a06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.028
+    second: {fileID: 2100000, guid: d57aa794b41d8e04c97aeb2a5b7493c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.029
+    second: {fileID: 2100000, guid: e6160b89958958d4697e435d97931de2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.030
+    second: {fileID: 2100000, guid: 34a5a98301bb6f843bc9c4ddb9d82e3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.031
+    second: {fileID: 2100000, guid: 76cbdb65c0dda614eaab588bc32e615f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.032
+    second: {fileID: 2100000, guid: 47b6f49fd7d7b2e4c8f8b1aca4cee2e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.035
+    second: {fileID: 2100000, guid: d745398cd2dcc2c4988dd93439cc2d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.036
+    second: {fileID: 2100000, guid: 21459b55cc4eebe4f9f83af6ef8162ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.037
+    second: {fileID: 2100000, guid: b87885870e35a1948be8cfce85ccb0db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.038
+    second: {fileID: 2100000, guid: 0983dd22a733984419c84cf5904d1dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.041
+    second: {fileID: 2100000, guid: a83fdef3318c739448f871f8b7e13ceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.042
+    second: {fileID: 2100000, guid: 685e6c286f8cb50439ec83df83e1cce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.043
+    second: {fileID: 2100000, guid: 8de885b56c40b794e830850e2898da80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.044
+    second: {fileID: 2100000, guid: e0dfba66d51da1541afaaab7d32610fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.045
+    second: {fileID: 2100000, guid: 5c55a36ca2adb8e4e881585a086916c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.046
+    second: {fileID: 2100000, guid: b80362f6350b32a4f97d3c1835bfec88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.047
+    second: {fileID: 2100000, guid: ded867e6a16744d46b02b91e375d3ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.048
+    second: {fileID: 2100000, guid: 45f85c54c2f0d594590d3acba92d3429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.049
+    second: {fileID: 2100000, guid: 5b96f25071616f64eac1cd09b000f6c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.050
+    second: {fileID: 2100000, guid: cd5daeec57e488d409bd7a834ef58ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.051
+    second: {fileID: 2100000, guid: 27d35dbd83fcd3b46855ba8dc69b7dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.056
+    second: {fileID: 2100000, guid: 852f47ba197432f4ea476ae13e9eed3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.057
+    second: {fileID: 2100000, guid: f7fdb923accaa1648abf18138a3007d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.058
+    second: {fileID: 2100000, guid: b97b9f9146bea524d8060f2512206263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.059
+    second: {fileID: 2100000, guid: c72547d2f35876440bc24d491604d57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.060
+    second: {fileID: 2100000, guid: 45e81ffd0f34b3f4aa8e9186be38b20e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.061
+    second: {fileID: 2100000, guid: cdf00aea342c7d4429352f4c3f60b511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.066
+    second: {fileID: 2100000, guid: 8a63e07dee915f14190dd7e5664593e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.067
+    second: {fileID: 2100000, guid: 00c93f611290ccf44963239984bf95b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.068
+    second: {fileID: 2100000, guid: 7b8c0f50a66e0b34ab031b3d101fda4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.069
+    second: {fileID: 2100000, guid: 283bea5edcbb7334cb7c537bd4519353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.070
+    second: {fileID: 2100000, guid: aff78a1101b189c4f9d2675a0f3ab8f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.071
+    second: {fileID: 2100000, guid: a6aef8d5e9f7a2c46a34571c9fc4e0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.072
+    second: {fileID: 2100000, guid: 4e560fe37a659b44fb3eb0d767bd901a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.073
+    second: {fileID: 2100000, guid: 00993d3d70441e549a541d6a627150e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.074
+    second: {fileID: 2100000, guid: db7d468eb65f28e4bb498fb1b6646f2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.075
+    second: {fileID: 2100000, guid: f653ac212d137354dbf0b41cd4415d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.076
+    second: {fileID: 2100000, guid: c65be7187ec8fb04cb73c965eb6e1350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.077
+    second: {fileID: 2100000, guid: aafd0dd93b7a70c4e9673ba3fc442da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.078
+    second: {fileID: 2100000, guid: deb6a6e4cd416e34cab15baadc24a479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.079
+    second: {fileID: 2100000, guid: d01667cdaeb64ae4092b8ba0747884bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.080
+    second: {fileID: 2100000, guid: 0f2d28e1fae0547499fe47f08cbdaeb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.081
+    second: {fileID: 2100000, guid: 3b8ad3c1fd6ada448b0c19f761a4b27d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.082
+    second: {fileID: 2100000, guid: 1ff3177f45daa9245b946d5d3cc6d465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.083
+    second: {fileID: 2100000, guid: bb55a406e19a78344b2604204ab8d48d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.084
+    second: {fileID: 2100000, guid: 15eeeee3751ae4a429d74d16fd400083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.085
+    second: {fileID: 2100000, guid: cd67dcad35161324582160114352e736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.086
+    second: {fileID: 2100000, guid: 57f2b2b3ce760c24ab00b2256f21e793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.087
+    second: {fileID: 2100000, guid: c5e8dc3e27063ba45821afb61502d29c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.088
+    second: {fileID: 2100000, guid: 414121791c4533142891f8d818cf506e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.089
+    second: {fileID: 2100000, guid: 2bf87f47f6691db4fbe1368f63fe5914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.090
+    second: {fileID: 2100000, guid: e4b52654f77e4df49bb0727a2fc21316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.091
+    second: {fileID: 2100000, guid: e907e4b4d814a894abb2a68fd88f4c92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.092
+    second: {fileID: 2100000, guid: 75e8f1a71bf75d448b989cad9b4ac34e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.093
+    second: {fileID: 2100000, guid: bb8fa82b0f2f877469ab4154e3bc9bab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.094
+    second: {fileID: 2100000, guid: d6658b7b36f4cd644ab7e2b1396f8525, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.095
+    second: {fileID: 2100000, guid: ac820c2129b7caf47a51a6c230129ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.096
+    second: {fileID: 2100000, guid: cd4fabd027ada8645846b8b71c5fe1a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.101
+    second: {fileID: 2100000, guid: 606b7e036201fb147a9eb2c4156b991d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.102
+    second: {fileID: 2100000, guid: 2c50759dc2ed45e4d9194133ee13798a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.103
+    second: {fileID: 2100000, guid: 3543261ab16e5e8458d48c9b970408aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.104
+    second: {fileID: 2100000, guid: 848387435c72e4149958695dd55ec2ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.105
+    second: {fileID: 2100000, guid: dbbaf68de6fb3484694dbcf507be584d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.106
+    second: {fileID: 2100000, guid: 4f18b35d9d16a4940bf387e81e575b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.107
+    second: {fileID: 2100000, guid: ff33e7b9b43169c4396f07c1ae7d7700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.108
+    second: {fileID: 2100000, guid: c34eac00ee154814b9cc103fa372c550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.109
+    second: {fileID: 2100000, guid: 57f5900f10fe58947ba71464d7744a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.110
+    second: {fileID: 2100000, guid: 1a0bae407a9d6724593ea4a9bb4c5a21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.111
+    second: {fileID: 2100000, guid: b791b0d650d652e469e08bb45a829cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.112
+    second: {fileID: 2100000, guid: a902a65852b430f46bbb97ed8dd0e740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.113
+    second: {fileID: 2100000, guid: 463b4161d6778124d8245ef1f077af6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.114
+    second: {fileID: 2100000, guid: 1620b0ea24e7bf448a0d08b6df23b3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.115
+    second: {fileID: 2100000, guid: 136c853a31537a14e9a1fdab34591821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.116
+    second: {fileID: 2100000, guid: 6dfe3760e5b7099479d14e73b17a390f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.117
+    second: {fileID: 2100000, guid: 8164a45e7d621a44db2db0bd74f3419d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.118
+    second: {fileID: 2100000, guid: f7138a3f94a30fb4fbe628b188a97edb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.119
+    second: {fileID: 2100000, guid: 0bf50dbd8b46a504b93b3db4acc48743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.129
+    second: {fileID: 2100000, guid: 3c7d60cd02328a944b6ce9a939a246e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.130
+    second: {fileID: 2100000, guid: c12752ccb55a35344abd03bb9e40278e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.131
+    second: {fileID: 2100000, guid: 0232ea0f5aed83349b4755783e0ab1f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.132
+    second: {fileID: 2100000, guid: a3efff1231976754db070fa05554c667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.133
+    second: {fileID: 2100000, guid: 2a32bf35f762068468d0ed97a3498e74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.134
+    second: {fileID: 2100000, guid: 95461dda907f22443ba2fb03839deca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.135
+    second: {fileID: 2100000, guid: 31149e8ea4147c049a051f608e5a4634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.136
+    second: {fileID: 2100000, guid: 8bf55b463df138c4783b4a9f3a8890f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.137
+    second: {fileID: 2100000, guid: e827790fb7221774baff8245f71b5182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.138
+    second: {fileID: 2100000, guid: b50ccc6e682e9334daa5674d01295b57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.139
+    second: {fileID: 2100000, guid: fd658590acfc08c4bbcab69e2b27d8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.140
+    second: {fileID: 2100000, guid: 1656e1e762b316e49bd3088027ffb627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.141
+    second: {fileID: 2100000, guid: 2a7ab72dbe3e2ca42badfd47d70c3bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.142
+    second: {fileID: 2100000, guid: 700eadda3964a064f9db22575f998bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.143
+    second: {fileID: 2100000, guid: 9e4eccc094a2af942ae002e695188427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.144
+    second: {fileID: 2100000, guid: b08d0268d712e744180371e74a8c0d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.145
+    second: {fileID: 2100000, guid: 5802957d0989d8a47932a93ded724fc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.146
+    second: {fileID: 2100000, guid: a24a9c3378293bc49b6fdf4c3f90a012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.147
+    second: {fileID: 2100000, guid: ebf540413bdaa37499ee449f539a18ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.148
+    second: {fileID: 2100000, guid: 89029f6d56979e848a1ee88996f7fea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.149
+    second: {fileID: 2100000, guid: 24fe03c5dfc46c4489927009f78e1346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.150
+    second: {fileID: 2100000, guid: 82668a939aa137a4ea4130261a2215bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.151
+    second: {fileID: 2100000, guid: 719141496f85c2945b1fdf86b9b25b01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.152
+    second: {fileID: 2100000, guid: 6f471d08656b7ac44a2cf6b41bbe9418, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.153
+    second: {fileID: 2100000, guid: 56410a2e28e183147b99b0920bab3604, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.154
+    second: {fileID: 2100000, guid: c4a772704290b0a47a401c211a0563c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.155
+    second: {fileID: 2100000, guid: 00d0907e871be4448b67b8a4dabc82e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.156
+    second: {fileID: 2100000, guid: 4247d3f6193385a4788d574e1969cd4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.157
+    second: {fileID: 2100000, guid: 7c17026b86acdc1498606983a6dfd9d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.158
+    second: {fileID: 2100000, guid: 1df0c312bb0c5f049a16f916c467bd6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.159
+    second: {fileID: 2100000, guid: 2627bf47cb647a34ba570f3cb24e3c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.160
+    second: {fileID: 2100000, guid: 8c9bb4d6e0ed87d42842ef7fa2c50d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.161
+    second: {fileID: 2100000, guid: f70deda29072c8045b0512aac52c418b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.162
+    second: {fileID: 2100000, guid: c48832d0c5284234baa3610de389ce71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.163
+    second: {fileID: 2100000, guid: c9cf86d19266b4044b0097f89e65bcd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.164
+    second: {fileID: 2100000, guid: 260e9199f64e20f47af9157210d34dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.165
+    second: {fileID: 2100000, guid: 239b2f455c86fbb45998f7b8df13bf42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.166
+    second: {fileID: 2100000, guid: de945dcf56165bc4ba45c6ff788ba667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.167
+    second: {fileID: 2100000, guid: e26b8c06804cf754fbed9ca53f9b37ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.168
+    second: {fileID: 2100000, guid: a9985e0e73d17b24eb5b83b4701227b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.169
+    second: {fileID: 2100000, guid: ef8784b9be900774694d13650415bf4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.170
+    second: {fileID: 2100000, guid: 91c7919fe46396e47b671e0ad605e14e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.171
+    second: {fileID: 2100000, guid: 2a3fbcbbf7566d548965ae031a8601f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.172
+    second: {fileID: 2100000, guid: ecdc84b0b796eb5429cb2a618c713018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.173
+    second: {fileID: 2100000, guid: 11a73b49268971e44a41ae8f8f4aa647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.174
+    second: {fileID: 2100000, guid: 2ecbae8f9493a534f819e5d85e2781ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.175
+    second: {fileID: 2100000, guid: 01038c29684f53b468eed48a5f5a38c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.176
+    second: {fileID: 2100000, guid: ca70b6c5790bd2b41b9a2d158967b1cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.177
+    second: {fileID: 2100000, guid: 473371499349d9e459a221a1881e2ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.178
+    second: {fileID: 2100000, guid: 9cff2865ad916304a9f199fd3a8d83d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.179
+    second: {fileID: 2100000, guid: 4f22885be57dbac4fad4a2a9ccfc6d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.180
+    second: {fileID: 2100000, guid: 014779b3a894d464bb5864bb10c2e8c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.181
+    second: {fileID: 2100000, guid: 3d98b6d8a579b4c4583fc475e10b4687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.182
+    second: {fileID: 2100000, guid: b7b634a4b25c0004085f8eea34e2b7ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.183
+    second: {fileID: 2100000, guid: 094f7d7b934f20f419863dcfd6b7158b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.184
+    second: {fileID: 2100000, guid: fdbdfa70b1931d649a6b743258788833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.185
+    second: {fileID: 2100000, guid: 889fb98706c8e69469ff9fc774c6f67b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.186
+    second: {fileID: 2100000, guid: 88c2cfd23465e884f8c12a70cd9058d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.187
+    second: {fileID: 2100000, guid: 37d532a752e26384b81d18ff04f890bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.188
+    second: {fileID: 2100000, guid: 476af3cc9d385344d97b3f8ccb0a084a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.189
+    second: {fileID: 2100000, guid: 92bbf0f471308ca4f8f517aa8c728ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.190
+    second: {fileID: 2100000, guid: 0832e6381d72d6d40b2a0a2de4a50ca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.191
+    second: {fileID: 2100000, guid: 8f29b63d3142aac40af1879bdffd6138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.192
+    second: {fileID: 2100000, guid: 96d5edec1b85dd143a6f284db1969373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.193
+    second: {fileID: 2100000, guid: 6e2596349b4e6544fac395f29e12ac79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.194
+    second: {fileID: 2100000, guid: 70a96fd17dab5e148817eb88fe9b3513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.195
+    second: {fileID: 2100000, guid: 5b1e814fcc7b6434bbdaf3343e4f90b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.196
+    second: {fileID: 2100000, guid: 99d2ef27ef7c7154b9bc16587775a6f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.197
+    second: {fileID: 2100000, guid: 4d6ecdc6f49d55241b5636ad5e6ef7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.198
+    second: {fileID: 2100000, guid: d2d76adb09c7d914e9ecd6983f9c67d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.199
+    second: {fileID: 2100000, guid: 50338934ac0db2b4d84ac98534dce77d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.200
+    second: {fileID: 2100000, guid: cdab56de23a7f3748b5a0930f29a7603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.201
+    second: {fileID: 2100000, guid: 9dc1a52388c866c4ea0cc779adba3f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.202
+    second: {fileID: 2100000, guid: b1e42328daf7cd14bb2e92c2108d083c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.203
+    second: {fileID: 2100000, guid: 117a303bce25b224abb92f959d9d5dca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.204
+    second: {fileID: 2100000, guid: 764f9dcc092939d479f2ce68d349c6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.205
+    second: {fileID: 2100000, guid: 5c67dbeaa5c0aa845bdf70788a6d3345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.206
+    second: {fileID: 2100000, guid: 0a363800730b34a4a89902eba21d0639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.207
+    second: {fileID: 2100000, guid: f9d3e591a4e9ac24c84c4317714cfd3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.208
+    second: {fileID: 2100000, guid: c7f5e407ff50e7e42be002c6a0d1cda4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.209
+    second: {fileID: 2100000, guid: 62f05c584fa62714b960003661386ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.210
+    second: {fileID: 2100000, guid: 8625123e59743d9438fd2483c5fce533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.211
+    second: {fileID: 2100000, guid: 6fea6eb3dff69c94b8f06eae4de66c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.212
+    second: {fileID: 2100000, guid: ca6d60aa233cb8a428c5b62dee261fe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.213
+    second: {fileID: 2100000, guid: 621c333a7e0f40e4e8c918508e37e880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.214
+    second: {fileID: 2100000, guid: 75bc5d92d3fbd624abe410964aed253e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.215
+    second: {fileID: 2100000, guid: 487a5be24ad9374488aa2d0008ef78a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.216
+    second: {fileID: 2100000, guid: f23d28c31712858478bed4085d979c84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.217
+    second: {fileID: 2100000, guid: be3198863bc44024eb41947d8993a483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.218
+    second: {fileID: 2100000, guid: 4b47fd95b4ff415418cbacd8389644c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.219
+    second: {fileID: 2100000, guid: 7bcf7ad5083f9074988f81abf56943e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.220
+    second: {fileID: 2100000, guid: d3d266c304dfa63419bc84ec2c8f5bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.221
+    second: {fileID: 2100000, guid: fd980e7706da08a4f9c1dd45bdf0c7b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.222
+    second: {fileID: 2100000, guid: 543e11ffb04487641a891a23eef4fafa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.223
+    second: {fileID: 2100000, guid: af028e726bf60bb439401d653c73b036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.224
+    second: {fileID: 2100000, guid: d5d1297a25d57604db9c79c10ea3f862, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.225
+    second: {fileID: 2100000, guid: 3acdf2bc4b79ba44ca4d80a65d8f8a24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.226
+    second: {fileID: 2100000, guid: 803d5874a60387c439cc2e2018aab5c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.227
+    second: {fileID: 2100000, guid: 4655a0058eacfcc4f925f3743fdfef18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.228
+    second: {fileID: 2100000, guid: d01e04edb5762bd4fb17b1cfca6e42c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.229
+    second: {fileID: 2100000, guid: cfd4cdee3de364146aef275140ec2767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.230
+    second: {fileID: 2100000, guid: 8b6298059c963e84b81ac48b8c457671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.231
+    second: {fileID: 2100000, guid: e0cfa5482a0c372459a331dce244aebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.232
+    second: {fileID: 2100000, guid: 22954e5b89d85b84c845bd668635f071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.233
+    second: {fileID: 2100000, guid: bcfb6002ffdc9f043b17dd5135004bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.234
+    second: {fileID: 2100000, guid: da1024efce8e7be4ca12010a7e75c2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.235
+    second: {fileID: 2100000, guid: 9276ec9b7983f4e40923b5c543a5c424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.236
+    second: {fileID: 2100000, guid: 4b8a573ebee1b5742beb642f17e5c5bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.237
+    second: {fileID: 2100000, guid: 3c65a29736c4e29429645b1a3da3ff2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.238
+    second: {fileID: 2100000, guid: 2e39eb1cee4f8cd4e92ee2406f1aa3f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.239
+    second: {fileID: 2100000, guid: c50ac75b26d721d479c61d15387ef708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.240
+    second: {fileID: 2100000, guid: 72a66fc93470bb04f9db800be2fcd3fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.241
+    second: {fileID: 2100000, guid: f60c4b70cbd35134d89af93a0888a0b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.242
+    second: {fileID: 2100000, guid: 851fa7a30a6fe6243adb6c494ca27666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.243
+    second: {fileID: 2100000, guid: 0b1bf2e3730500345914207184c951a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.244
+    second: {fileID: 2100000, guid: b6bb304ecb9ef3f45b0aa5ae7f6964a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.245
+    second: {fileID: 2100000, guid: 9f4a70dea2b3a9445916b102831d2716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.246
+    second: {fileID: 2100000, guid: 891a865ab6755a14999a69e964207c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.247
+    second: {fileID: 2100000, guid: 725ea02a029d3b645b41f224dad76543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.248
+    second: {fileID: 2100000, guid: e9cb17f80c332ed45afec815add605fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.249
+    second: {fileID: 2100000, guid: 28585583b0b583e4c81a28408056ab0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.250
+    second: {fileID: 2100000, guid: c6c88e993b1e55a468ef5ab11fee4ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.251
+    second: {fileID: 2100000, guid: 97add7c6248b59e4dae6e11dbcac21f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.252
+    second: {fileID: 2100000, guid: e089a94b009adea49bd048dcc70bb816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.253
+    second: {fileID: 2100000, guid: eebe578e982bea241b560c7b4f87fcb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.254
+    second: {fileID: 2100000, guid: cf499136a528cbd4da2e0bc69b6f1095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.255
+    second: {fileID: 2100000, guid: dd3c09769dc52fb438635f33f38a6795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.256
+    second: {fileID: 2100000, guid: 952234134844b6c4289131deeca1fecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.257
+    second: {fileID: 2100000, guid: 6dd215caacf065f468c3ed97e96ab0ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.258
+    second: {fileID: 2100000, guid: 6f12628a5b8e69744ad142b1634f38de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.259
+    second: {fileID: 2100000, guid: 93680f5e1f2280b4d8a6a6963b452b34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.260
+    second: {fileID: 2100000, guid: 00f9739d8316a01429680c214ed0ba3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.261
+    second: {fileID: 2100000, guid: 7b68b5e1f3d7bb84da91bae7398ac1be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.262
+    second: {fileID: 2100000, guid: 94fd5c1b3d640994d9be5d3bf852041c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.263
+    second: {fileID: 2100000, guid: 2cbd1951288a56944b4dfb0f40b8e06f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.264
+    second: {fileID: 2100000, guid: f8d04bad07c5cf74985feec7652ae5f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.265
+    second: {fileID: 2100000, guid: 6f65fca07cf7d24409dfd3b6cfe72cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.266
+    second: {fileID: 2100000, guid: 479de66c98381c34888ae196f0048db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.267
+    second: {fileID: 2100000, guid: 5c304fa5154661746adea34a047182c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.268
+    second: {fileID: 2100000, guid: ad15d9f8d596fa446a8c98ac2ffe00b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.269
+    second: {fileID: 2100000, guid: 4df95562a9cf4254d9a3a46651ecc0b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.270
+    second: {fileID: 2100000, guid: 27f524a5d9e01da43b633ad0edd42ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.271
+    second: {fileID: 2100000, guid: 9484ab1a0aace754d98639603c6ebd4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.272
+    second: {fileID: 2100000, guid: d42a09af695893340997ab41e87616f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.273
+    second: {fileID: 2100000, guid: 5b6be3d9f0e5d3e4d82ae74e5fe547d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.274
+    second: {fileID: 2100000, guid: 7bdc4be1ebcfa3343ae87b568cbab248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.275
+    second: {fileID: 2100000, guid: 9b1fb70c00f12594f9e9f8b062e9ca9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.276
+    second: {fileID: 2100000, guid: 603d581b351cbbb4990aa9c6b12b11fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.277
+    second: {fileID: 2100000, guid: 3b4c09b0cd4d1734fa3dd01bfd1228d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.278
+    second: {fileID: 2100000, guid: 4972e2d7a74bde34b91341089278093f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.279
+    second: {fileID: 2100000, guid: 4f507f7e7e561e5449da9a2e2e11edbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.280
+    second: {fileID: 2100000, guid: 424ed907d2ab71348b09d26c127f3a47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.281
+    second: {fileID: 2100000, guid: 2d159af279529d048987b588a6c7a038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.282
+    second: {fileID: 2100000, guid: 656f4b379961ce34197256bc03541ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.283
+    second: {fileID: 2100000, guid: 37c93a8b813e76f42bd80d4a9634e9e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.284
+    second: {fileID: 2100000, guid: 7fc626662d1c8244c8cd66b29407550d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.285
+    second: {fileID: 2100000, guid: cec1a4488bbc661468bedae8be0b42d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.286
+    second: {fileID: 2100000, guid: 961cec55f5b661c40b93af879e9bb75d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.287
+    second: {fileID: 2100000, guid: 7391fbae55da4394fa7ca17f914e8526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.288
+    second: {fileID: 2100000, guid: 4ac4a12e0f59d2946968ef7e22469463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.289
+    second: {fileID: 2100000, guid: 92a3b406ad5e72b49962767f66915683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.290
+    second: {fileID: 2100000, guid: bb417875a1e819141a427a08f52e52fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.291
+    second: {fileID: 2100000, guid: 779a41c179e1f8a4c9eab0955761afde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.292
+    second: {fileID: 2100000, guid: 0214125648b97fd409155b66f12840e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.293
+    second: {fileID: 2100000, guid: d962d6d7805f78745bf29e28609a2a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.294
+    second: {fileID: 2100000, guid: e2415e258985b2c42ad4526b0113716a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.295
+    second: {fileID: 2100000, guid: 749c54e922ae69b408f0d48b3d53bec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.296
+    second: {fileID: 2100000, guid: 70a6a286417fdda438d0aca0d31e56aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.297
+    second: {fileID: 2100000, guid: dc26d6335d22d6b4187dae9714128d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.301
+    second: {fileID: 2100000, guid: 98358ed0a9e17be47b35ca7d58ad0ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.302
+    second: {fileID: 2100000, guid: 54abd022288190b43843da19cd7e9f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.303
+    second: {fileID: 2100000, guid: 838a9b1816c333b4e878829323c38f01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.304
+    second: {fileID: 2100000, guid: dd8908de4dd54434eab933ef9bfaf803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.305
+    second: {fileID: 2100000, guid: 002e3703fe4f9e5488eb44d8178df8c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.306
+    second: {fileID: 2100000, guid: 3fc7690b105bcbb4cafa226f8acc86d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.307
+    second: {fileID: 2100000, guid: 1e911ce683bd3d64ba820d43967b06cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.308
+    second: {fileID: 2100000, guid: e87754e3f596a6a4599839ad6c9812a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.309
+    second: {fileID: 2100000, guid: 318a00eb370872345b55a38c8366020a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.310
+    second: {fileID: 2100000, guid: d976790be5f30ad4c87c595502b39cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.311
+    second: {fileID: 2100000, guid: d608dc2bfcf077a48a97e6e1b98b12be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.312
+    second: {fileID: 2100000, guid: 3a81b3c6c2c704644b5052a963c6e2cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.313
+    second: {fileID: 2100000, guid: 22a6fecd2c8a0ce42afb4b7ef33dda26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.314
+    second: {fileID: 2100000, guid: a9c1623998519c94dba3e671e825aade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.315
+    second: {fileID: 2100000, guid: 181782a47e7565d45be4fd06a3649708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.316
+    second: {fileID: 2100000, guid: 727b82a6ec9e241438d717d97e5fb861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.317
+    second: {fileID: 2100000, guid: e550043ee13fb6149b0beb59cb196a53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.318
+    second: {fileID: 2100000, guid: c0f81224ee8f9f44782c7ed5ec8cb818, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.319
+    second: {fileID: 2100000, guid: 9485d270d5147b841abc83bfb680d924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.320
+    second: {fileID: 2100000, guid: 1904f5647d8d3e74892d6a74e6d4f0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.321
+    second: {fileID: 2100000, guid: 7f389ba11ca2313468dda65b3398a5c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.322
+    second: {fileID: 2100000, guid: 5ce676e8c1c1f3543afbabc8836e2d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.323
+    second: {fileID: 2100000, guid: 1d7c65c72c55df7469e2f2aa8f6d890e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.324
+    second: {fileID: 2100000, guid: c60a9a9baac96514a91be5c84bf6edb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.325
+    second: {fileID: 2100000, guid: 0b40a628e927967478ec88adbd4aa914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.326
+    second: {fileID: 2100000, guid: a3007f3c3befb5d428443296abd3bf11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.327
+    second: {fileID: 2100000, guid: 9090f92b6953c51458d6da8255d0c83a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.328
+    second: {fileID: 2100000, guid: 769dc4444b882e6438eb5bfbbca94c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.329
+    second: {fileID: 2100000, guid: b3e33f33f4ef3cb40a81e4ad4a8e6732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.330
+    second: {fileID: 2100000, guid: 83e1d815eba5fdb43b94578b20f3b864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.331
+    second: {fileID: 2100000, guid: 19b80912e97b9ad49b7096d3a700f5e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.332
+    second: {fileID: 2100000, guid: 4a61690507c1c804bbd5ae99744e392d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.333
+    second: {fileID: 2100000, guid: 8e14e175d74d35b49a7f475d61a67569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.334
+    second: {fileID: 2100000, guid: 46f30eb4cd903f24295eb3e12e378416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.335
+    second: {fileID: 2100000, guid: d59857f98d335a148b8636e2ba63768f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.336
+    second: {fileID: 2100000, guid: 6f1c069a2346d7f45bf4e399df10c225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.337
+    second: {fileID: 2100000, guid: 4d894bc6bfa6b984f96fccb450de2126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.338
+    second: {fileID: 2100000, guid: b3173ac9e5a67cc4e9a44fc0d7eabf8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.339
+    second: {fileID: 2100000, guid: 548a3437b127e38408ee5c965b556732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.340
+    second: {fileID: 2100000, guid: 9350f24174bc7d94a9725484cadf07e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.341
+    second: {fileID: 2100000, guid: 4e638a80276cf724f8d87106878364fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.342
+    second: {fileID: 2100000, guid: 20d9c4c3738d80746b29e98e702a21f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.343
+    second: {fileID: 2100000, guid: 8ab87263d247b6a4a8f2685bd6b124d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.344
+    second: {fileID: 2100000, guid: cf15a526cfde3d14fa2ba779082e8f16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.345
+    second: {fileID: 2100000, guid: 05e001c3425778a458821acc280bb21e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.346
+    second: {fileID: 2100000, guid: ba475c5a193170f459696bb348cb1ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.347
+    second: {fileID: 2100000, guid: 3d72a12dba95aca43804493c53f83a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.348
+    second: {fileID: 2100000, guid: 40eede8c62365d14a912141b13cb3d9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.349
+    second: {fileID: 2100000, guid: 7a6b4d3e5ca071c4a94ce5a0f4799334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.350
+    second: {fileID: 2100000, guid: a5e989c594553b14e9a3b84bd9652df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.351
+    second: {fileID: 2100000, guid: 2124e57ef21ac264588a32abb18054f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.352
+    second: {fileID: 2100000, guid: a8563ad42ff904b45816c92d642d5336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.353
+    second: {fileID: 2100000, guid: 1e0f3927e2a1ea94f8d9db76487051cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.354
+    second: {fileID: 2100000, guid: d81a1b77f4c6d8a46835b66974300e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.355
+    second: {fileID: 2100000, guid: c6793d3a7d562b14a87f823bf16e25e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.356
+    second: {fileID: 2100000, guid: ac360e4b12e5b5941a10a5735fbbec5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.357
+    second: {fileID: 2100000, guid: ef3f64c107faf404a97fa1505d85644c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.358
+    second: {fileID: 2100000, guid: e6bc0728d2bfa5f41ad3438260c937a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.359
+    second: {fileID: 2100000, guid: a7383a50b16f58444bd8a0b72025b527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.360
+    second: {fileID: 2100000, guid: 3750b63a0a4de1045b0ddc03a53bed8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.361
+    second: {fileID: 2100000, guid: 4d6d68022a95d304abb8dca954bd843e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.362
+    second: {fileID: 2100000, guid: 6d377e39d53d66541bd18715ff90129e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.364
+    second: {fileID: 2100000, guid: e45686b0e8f43a244939d1cf80b09ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.365
+    second: {fileID: 2100000, guid: dcb915654babc1646b6e64fd107540b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.366
+    second: {fileID: 2100000, guid: 91c52f9616e5bae46b7299acd852dce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.367
+    second: {fileID: 2100000, guid: 2422422ecb699c24fa9c06cc0dd69c0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.368
+    second: {fileID: 2100000, guid: c150ce1036ae55f44aa5ab7b76bd9d46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.369
+    second: {fileID: 2100000, guid: 8e61542307b876a4d82eb61b9951de90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.370
+    second: {fileID: 2100000, guid: 2b5cca0e61e44e048b6d37869f41bc04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.371
+    second: {fileID: 2100000, guid: e83e0b6f0d66fde479cb931fe85d6034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.372
+    second: {fileID: 2100000, guid: bd9e52527fc34c942bee7358390114d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.373
+    second: {fileID: 2100000, guid: 3be730f7b19470c4ab9bc1829c0d6735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.374
+    second: {fileID: 2100000, guid: f5aac76083bcbd849ba9b3ba0f1c3282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.375
+    second: {fileID: 2100000, guid: 5ab8aab77de8d8d44983f7ddeb90c10d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.376
+    second: {fileID: 2100000, guid: 8dd5d96da6f33d34daa7eb8b1c47f14f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.377
+    second: {fileID: 2100000, guid: d74238f2334ad0b41918ccc97c423e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.378
+    second: {fileID: 2100000, guid: 774c35d42d96b7c4f96b9469990d6474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.379
+    second: {fileID: 2100000, guid: 98442ce0a818b9549b6471059de2c48c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.380
+    second: {fileID: 2100000, guid: 4d1041075e7b52143835b7f2188f63fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.381
+    second: {fileID: 2100000, guid: 191e39704a2c9164e887418119c6250f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.382
+    second: {fileID: 2100000, guid: 0c52c4c204bb8eb4e961b7c33109e115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.383
+    second: {fileID: 2100000, guid: 5a672c3003f43eb4fa157eed0ac91fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.384
+    second: {fileID: 2100000, guid: 7fc70ead0cfef5444a5467d118ff1f3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.385
+    second: {fileID: 2100000, guid: 5f52f29d79e59e749b935201cebc26c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.386
+    second: {fileID: 2100000, guid: 9b29bd3710e8d674c9cc10ae36468567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.387
+    second: {fileID: 2100000, guid: 5966058108866a7419c2ba0acf9778cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.388
+    second: {fileID: 2100000, guid: 6593043603ffde2438c88fd505a2a93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.389
+    second: {fileID: 2100000, guid: d3a6c098a8684b645afd3f1be0733575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.390
+    second: {fileID: 2100000, guid: 633c4ea72ee7e0c43b650e7c56537d45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.391
+    second: {fileID: 2100000, guid: 7aae63e182d643b44832fb2ee775e055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.392
+    second: {fileID: 2100000, guid: 244bd49931fd5b747998f42a6cc3d3e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.393
+    second: {fileID: 2100000, guid: e4c0fa57aa19b2541b4a89d53d6408d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.394
+    second: {fileID: 2100000, guid: 5a8b63e52e32ebc4d9be15372204fd52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.395
+    second: {fileID: 2100000, guid: 53b1df173b545ac498e62e8907a5bc06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.396
+    second: {fileID: 2100000, guid: f5f44e98fb808904cba6337e09b44d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.397
+    second: {fileID: 2100000, guid: 1553edfc1e64c4c4b85f4a83f5e8c57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.398
+    second: {fileID: 2100000, guid: 9abbcfe5c1b1a39419933a4edc48c3f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.399
+    second: {fileID: 2100000, guid: 4024a64ffff23014d854518ce125e2fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.400
+    second: {fileID: 2100000, guid: f5ca26aa2b17a4f4a845391f1bb8a01f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.401
+    second: {fileID: 2100000, guid: 27ff3bf40ced76f48ac36ea1b7cd8883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.402
+    second: {fileID: 2100000, guid: f698b40024f5c3d4e9941591c7d8a6f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.403
+    second: {fileID: 2100000, guid: d31c40465057a404a827750d3e7f40f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.404
+    second: {fileID: 2100000, guid: 12a696619b614fb4b97933e5661d1a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.405
+    second: {fileID: 2100000, guid: 860ef1ec10190624093c0afd428d14f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.406
+    second: {fileID: 2100000, guid: f21236fdaa3835944b847cb3a1650f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.407
+    second: {fileID: 2100000, guid: 0c9efea7d1cea594b8cedb7ac42c65be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.408
+    second: {fileID: 2100000, guid: eed6b1007770250429fe31cfaef96153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.409
+    second: {fileID: 2100000, guid: 8d8c526bac7355242b466f019c5dc97f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.410
+    second: {fileID: 2100000, guid: 4fb62a5cb72f29f4fa86f06d02224150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.411
+    second: {fileID: 2100000, guid: fe1f6e90fb4c0674493160fc962b0a19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.412
+    second: {fileID: 2100000, guid: c57f57264e87d1643a2e72435cc7e674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.413
+    second: {fileID: 2100000, guid: 581b60f35d9159747a5354c5f4ab5d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.414
+    second: {fileID: 2100000, guid: 18907fbb37baafc45bbd58bea3b89083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.415
+    second: {fileID: 2100000, guid: 43a5be365ccf6cb49aab29a2ee51aad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.416
+    second: {fileID: 2100000, guid: 4f9f4b7b281e6ca4baabf9dd7c731ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.417
+    second: {fileID: 2100000, guid: a8d6728dfb468254e855833414261407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.418
+    second: {fileID: 2100000, guid: 2a1b8da5ed3e992428aef0c85e82e7ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.419
+    second: {fileID: 2100000, guid: 1965cf415ac65a64481053cb151fdf26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.420
+    second: {fileID: 2100000, guid: 41c03a996773b1f498a37826a7f7326f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.421
+    second: {fileID: 2100000, guid: ee694dfc5152c3f499808094e3612be1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.422
+    second: {fileID: 2100000, guid: d3f63f0f8b6ce414995106a05d3101d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.423
+    second: {fileID: 2100000, guid: f330d7c670009eb4f8023308c51ab248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.424
+    second: {fileID: 2100000, guid: 7b7b5ce9e03450f44a8d73b12c5ab0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.425
+    second: {fileID: 2100000, guid: 014ca8b5494858446a9365fbb00bdffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.426
+    second: {fileID: 2100000, guid: f7f65393789df2b498783ee5dd42b49d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.427
+    second: {fileID: 2100000, guid: 98357836b6426a84db848988c3ec23b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.428
+    second: {fileID: 2100000, guid: 4740147d38298fa4cad3dae386fd45a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.429
+    second: {fileID: 2100000, guid: 36225cd41471d5540aafbbed748c8cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.430
+    second: {fileID: 2100000, guid: cedb0120b53028a48b851c43e2de401c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.431
+    second: {fileID: 2100000, guid: 163b7fbf3f4e9cc41a8871c490020c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.432
+    second: {fileID: 2100000, guid: 7ca625b3d4fc00142a3c42eba145a7eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.433
+    second: {fileID: 2100000, guid: f092498f4a3af6c45bddf68c716cf24b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.434
+    second: {fileID: 2100000, guid: ca5e2e35321ea5c49b6dcd5b861c4891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.435
+    second: {fileID: 2100000, guid: 1f4d49c70b8bfc7469f6a1e4a3a33c18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.436
+    second: {fileID: 2100000, guid: 391d1e918631e694c99a03cd7453c72d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.437
+    second: {fileID: 2100000, guid: 7a88ab2d52b9bb740963c906f998c7d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.438
+    second: {fileID: 2100000, guid: 14bfd55b4b6844d41be33520e108fe83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.439
+    second: {fileID: 2100000, guid: 673154229f925c147893e58cac456a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.440
+    second: {fileID: 2100000, guid: 6d0305be9d14c7d44bd8849276d85fdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.441
+    second: {fileID: 2100000, guid: 14e95af49d19d0a4888102a08b674f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.442
+    second: {fileID: 2100000, guid: dee51e98174a15e41901e73fb2159643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.443
+    second: {fileID: 2100000, guid: 9fe2808088bb37743bb5741a1bde0c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.444
+    second: {fileID: 2100000, guid: ac0d7c37ae2f3c74d9c3454b83fe5feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.445
+    second: {fileID: 2100000, guid: 4aacf8f2640d23142be509e3c5740d54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.446
+    second: {fileID: 2100000, guid: f1d09351bb085f6438ef36c930980745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.447
+    second: {fileID: 2100000, guid: a95e865a92836a94fa9426e0d90f921c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.448
+    second: {fileID: 2100000, guid: 716dd3cff18ff964f9d1d2927d5b0955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.449
+    second: {fileID: 2100000, guid: 4becb2022581ee243bfd622b76d6dd8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.450
+    second: {fileID: 2100000, guid: db41217dee60be94684e0cb483130e00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.451
+    second: {fileID: 2100000, guid: b07f833593ae177429ed3233c877ce67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.452
+    second: {fileID: 2100000, guid: d22b6524b4d06ce498054880c9dd4364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.453
+    second: {fileID: 2100000, guid: bfdd7790a2b0ca643ac64c4fc5f41212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.454
+    second: {fileID: 2100000, guid: e8c88ca799b3ab84fb25f72859d56493, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.455
+    second: {fileID: 2100000, guid: 961bdc5652c5fd84ebe1b10a1a61b4a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rpgpp_st_mat_a.456
+    second: {fileID: 2100000, guid: 793bd80856e734043b386321aff7d032, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

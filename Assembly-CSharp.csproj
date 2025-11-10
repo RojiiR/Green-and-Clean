@@ -63,7 +63,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\PickupItem.cs" />
+    <Compile Include="Assets\Script\RandomSampah.cs" />
     <Compile Include="Assets\Script\MoveCamera.cs" />
+    <Compile Include="Assets\Script\NPCBehavior3D.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
     <Compile Include="Assets\Script\TrashBin.cs" />
     <Compile Include="Assets\Script\PlayerCamera.cs" />
