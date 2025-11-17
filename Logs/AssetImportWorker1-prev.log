@@ -15,9 +15,15 @@ D:/SEMESTER 5/UasProject/Green-and-Clean
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
+<<<<<<< HEAD
 61780
 Successfully changed project path to: D:/SEMESTER 5/UasProject/Green-and-Clean
 D:/SEMESTER 5/UasProject/Green-and-Clean
+=======
+55897
+Successfully changed project path to: C:/ZIII/MATERI KULIAH/Prak Game/Prak01/Green and Clean
+C:/ZIII/MATERI KULIAH/Prak Game/Prak01/Green and Clean
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,12 +53,21 @@ D:/SEMESTER 5/UasProject/Green-and-Clean
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Player connection [25676] Host "[IP] 192.168.20.1 [Port] 0 [Flags] 2 [Guid] 4010480324 [EditorId] 4010480324 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-GTSSQNR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [25676] Host "[IP] 192.168.20.1 [Port] 0 [Flags] 2 [Guid] 4010480324 [EditorId] 4010480324 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-GTSSQNR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
 Refreshing native plugins compatible for Editor in 119.40 ms, found 3 plugins.
+=======
+Player connection [11972] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1011548028 [EditorId] 1011548028 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-E99HIQN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [11972] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1011548028 [EditorId] 1011548028 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-E99HIQN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Refreshing native plugins compatible for Editor in 138.39 ms, found 0 plugins.
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.38f1 (7a2fa5d8d101)
 [Subsystems] Discovering subsystems at path D:/SEMESTER 5/Unity/2021.3.38f1/Editor/Data/Resources/UnitySubsystems
@@ -65,6 +80,7 @@ Direct3D:
     VRAM:     7886 MB
     Driver:   31.0.12046.24001
 Initialize mono
+<<<<<<< HEAD
 Mono path[0] = 'D:/SEMESTER 5/Unity/2021.3.38f1/Editor/Data/Managed'
 Mono path[1] = 'D:/SEMESTER 5/Unity/2021.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/SEMESTER 5/Unity/2021.3.38f1/Editor/Data/MonoBleedingEdge/etc'
@@ -81,10 +97,29 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1060ms)
 		BeginReloadAssembly (194ms)
+=======
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016175 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 111.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.423 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1424ms)
+		BeginReloadAssembly (238ms)
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (2ms)
 		EndReloadAssembly (722ms)
 			LoadAssemblies (192ms)
@@ -100,29 +135,58 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (2ms)
 				ProcessInitializeOnLoadAttributes (229ms)
 				ProcessInitializeOnLoadMethodAttributes (83ms)
+=======
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (954ms)
+			LoadAssemblies (233ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (306ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (496ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (112ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (262ms)
+				ProcessInitializeOnLoadMethodAttributes (108ms)
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.007314 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+=======
+Registered in 0.016233 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 5.24 ms, found 0 plugins.
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e
 Preloading 0 native plugins for Editor in 0.00 ms.
-Package Manager log level set to [2]
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  2.126 seconds
 Domain Reload Profiling:
 	ReloadAssembly (2128ms)
 		BeginReloadAssembly (224ms)
+=======
+- Completed reload, in  2.550 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2551ms)
+		BeginReloadAssembly (339ms)
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (31ms)
 		EndReloadAssembly (1725ms)
 			LoadAssemblies (174ms)
@@ -152,12 +216,49 @@ Unloading 3102 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 24 unused Assets / (47.5 KB). Loaded Objects now: 3583.
 Memory consumption went from 128.8 MB to 128.8 MB.
 Total: 3.473400 ms (FindLiveObjects: 0.313700 ms CreateObjectMapping: 0.115600 ms MarkObjects: 2.885700 ms  DeleteObjects: 0.156700 ms)
+=======
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1512ms)
+			LoadAssemblies (292ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (616ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (463ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (5ms)
+				BeforeProcessingInitializeOnLoad (129ms)
+				ProcessInitializeOnLoadAttributes (242ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Failed to load shader (instanceID 7766, GUID 9c442dc870b456e48b615cd8add0e9ef)
+Failed to load shader (instanceID 7768, GUID 493b79ea9c9be44ed8b702014d3ac49c)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 5.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 unused Assets / (47.0 KB). Loaded Objects now: 550.
+Memory consumption went from 48.3 MB to 48.2 MB.
+Total: 6.132400 ms (FindLiveObjects: 0.091600 ms CreateObjectMapping: 0.009800 ms MarkObjects: 5.872200 ms  DeleteObjects: 0.156700 ms)
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+<<<<<<< HEAD
+=======
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e
   custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -165,3 +266,54 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< HEAD
+=======
+========================================================================
+Received Import Request.
+  Time since last request: 40605.397273 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(c779419a191a4a847a915bac95e736e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scenes/MainMenu.unity using Guid(c779419a191a4a847a915bac95e736e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5807029706ced9afd7a85322ff648551') in 0.041818 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scenes/MainScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f630db1e831250dbe0947b68d66c087') in 0.025294 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 11.826656 seconds.
+  path: Assets/Objek/SampahKhusus.prefab
+  artifactKey: Guid(e5292bcd546997349a72153e10fab3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Objek/SampahKhusus.prefab using Guid(e5292bcd546997349a72153e10fab3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce63b9245b8cc42f96ae416d9866b6f') in 0.726797 seconds 
+Number of asset objects unloaded after import = 117
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Objek/TempatSampahAnorganik.prefab
+  artifactKey: Guid(8eccb0bee72b5174c98f7605c6f11917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Objek/TempatSampahAnorganik.prefab using Guid(8eccb0bee72b5174c98f7605c6f11917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cba3320678fcbdfbc04c008a3e11ce2') in 0.063919 seconds 
+Number of asset objects unloaded after import = 111
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Objek/TempatSampahKhusus.prefab
+  artifactKey: Guid(7583a305afcc60b4cb9f58e8a01740e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Objek/TempatSampahKhusus.prefab using Guid(7583a305afcc60b4cb9f58e8a01740e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3759589ed24b3a934166307082fb1d') in 0.057136 seconds 
+Number of asset objects unloaded after import = 111
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Objek/SampahOrganik.prefab
+  artifactKey: Guid(45f99632e54401e4e88aefcfaccb789c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Objek/SampahOrganik.prefab using Guid(45f99632e54401e4e88aefcfaccb789c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec33ea66cd5b8cf51119bbc9e19a7ce') in 0.186318 seconds 
+Number of asset objects unloaded after import = 122
+>>>>>>> 84b9d8b5368c5ddff9231ad1fb21830f698a929e

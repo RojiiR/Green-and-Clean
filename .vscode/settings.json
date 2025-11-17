@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Green-and-Clean.sln"
+    "dotnet.defaultSolution": "Green and Clean.sln"
 }
